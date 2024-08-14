@@ -1,6 +1,8 @@
 # Mechanical Engineer
 
-### Work Experience
+### Experience
+**Technical Support**
+*Altair Engineering Inc.*
 
 ### Education
 
