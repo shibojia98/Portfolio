@@ -1,7 +1,7 @@
 # Mechanical Engineer
 
 ### Experience
-**Technical Support** | *Altair Engineering Inc. (Nasqad: ALTR)* | September 2022 - September 2023, (13 Months)
+**Technical Support** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted optimization developments (topology, shape, and free shape optimization) using HyperMesh for a gearbox and transmission system, covering components such as gears, drive shafts, planetary gears, and casings, and produced detailed reports that fully met client requirements and expectations;
 - Performed a thorough comparison and evaluation of SimSolid (Altair's mesh-free FEA product) to HyperMesh, and ANSYS Mechanical across various models, produced slides to highlight the advantages of meshfree simulation technologies for sales, and delivered reports identifying its issues for R&D teams;
 - Created complete sets of slides and video tutorials for training sessions of SimSolid (Ver2022.2), Inspire, SimSolid, and Sulis (DfAM lattice structure and flow channel design), collaborated with sales to present functions of products, and provided training and technical support to pre-sale and post-sale clients;
