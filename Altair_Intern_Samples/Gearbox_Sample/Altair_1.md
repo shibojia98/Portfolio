@@ -10,4 +10,4 @@ The content is NOT qualified for, intended for, nor permitted to be used for, an
 <img src="Gear_Showcase_2.png">
 <img src="Gear_Showcase_3.png">
 
-<span style="font-size:18px; color:blue">[Back to the mainpage](README.md)</span>
+<span style="font-size:16px; color:blue">[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span>
