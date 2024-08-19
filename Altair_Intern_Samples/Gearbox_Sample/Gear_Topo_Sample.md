@@ -43,4 +43,6 @@
   <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
   <img src="Load_Step_4.png" alt="Load_Step_4" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
-</div>
+</div><br>
+<span style="color:black"> Optimization Results:<br><br>
+<img src="Gear_Result.gif" alt="Gear_Result">
