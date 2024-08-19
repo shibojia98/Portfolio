@@ -18,7 +18,7 @@
   <img src="Gear_Topo_GC_7.png" alt="Gear_Topo_GC_7" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Create Surfaces from Lines</p>
   <img src="Gear_Topo_GC_8.png" alt="Gear_Topo_GC_8" style="display: block; margin-bottom: 10px;">
-  <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces by Lines (Design Space)</p>
+  <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces (Design Space)</p>
 </div>
 
 <span style="color:black"> RBE2 & RBE3 Setup:<br>
