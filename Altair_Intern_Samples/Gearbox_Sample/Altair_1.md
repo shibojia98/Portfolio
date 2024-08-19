@@ -1,8 +1,8 @@
 # Shibo's Altair Internship Work Sample (Gearbox)
-<span style="color:black"> This page showcases one of Shibo's projects during his internship at Altair: Structural Optimization of a Gearbox Using HyperMesh. Selected models have been chosen for demonstration purposes.<br> In accordance with Altair's guidelines, all images and models have been watermarked, and any sensitive information has been obscured to ensure the privacy and security of client data.</span><br>
-<span style="color:black"> Optimization process of a few components is also provide:</span><br>
-- <span style="color:black"> Topology Optimization of Gear</span><br>
-- <span style="color:black"> Shape Optimization of Shaft</span><br><br>
+<span style="color:black"> This page showcases one of Shibo's projects during his internship at Altair: Structural Optimization of a Gearbox Using HyperMesh. Selected models have been chosen for demonstration purposes.<br> *In accordance with Altair's guidelines, all images and models have been watermarked, and any sensitive information has been obscured to ensure the privacy and security of client data.</span><br><br>
+<span style="color:black"> Optimization process of a few components is also provide:</span>
+- <span style="color:black"> Topology Optimization of Gear</span>
+- <span style="color:black"> Shape Optimization of Shaft</span>
 
 <span style="color:black"> The following optimization result is just one of many possible solutions generated:</span><br>
 
