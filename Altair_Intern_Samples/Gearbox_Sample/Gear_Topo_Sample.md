@@ -8,19 +8,17 @@
   <img src="Gear_Topo_GC_2.png" alt="Gear_Topo_GC_2" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Define Center Points of Circles</p>
   <img src="Gear_Topo_GC_3.png" alt="Gear_Topo_GC_3" style="display: block; margin-bottom: 10px;">
-  <p style="font-size:0.8em; text-align: center;">Create Cylinder Surface</p>
+  <p style="font-size:0.8em; text-align: center;">Create Construction Surface</p>
   <img src="Gear_Topo_GC_4.png" alt="Gear_Topo_GC_4" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Surface Cut</p>
   <img src="Gear_Topo_GC_5.png" alt="Gear_Topo_GC_5" style="display: block; margin-bottom: 10px;">
-  <p>Caption for the image</p>
+  <p style="font-size:0.8em; text-align: center;">Delete Construction Surface</p>
   <img src="Gear_Topo_GC_6.png" alt="Gear_Topo_GC_6" style="display: block; margin-bottom: 10px;">
-  <p>Caption for the image</p>
+  <p style="font-size:0.8em; text-align: center;">Delete Solid</p>
   <img src="Gear_Topo_GC_7.png" alt="Gear_Topo_GC_7" style="display: block; margin-bottom: 10px;">
-  <p>Caption for the image</p>
+  <p style="font-size:0.8em; text-align: center;">Create Surfaces from Lines</p>
   <img src="Gear_Topo_GC_8.png" alt="Gear_Topo_GC_8" style="display: block; margin-bottom: 10px;">
-  <p>Caption for the image</p>
-  <img src="Gear_Topo_GC_9.png" alt="Gear_Topo_GC_9" style="display: block; margin-bottom: 10px;">
-  <p>Caption for the image</p>
+  <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces by Lines (Design Space)</p>
 </div>
 
 <span style="color:black"> RBE2 & RBE3 Setup:<br>
