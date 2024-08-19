@@ -3,6 +3,7 @@
 <span style="color:black"> Optimization process of a few components is also provide:</span><br>
 - <span style="color:black"> Topology Optimization of Gear</span><br>
 - <span style="color:black"> Shape Optimization of Shaft</span><br>
+
 <span style="font-size:0.75em; color:orange">*NOTE: This page exclusively showcases Shibo's work accomplishments for personal skill demonstration.
 The content is NOT qualified for, intended for, nor permitted to be used for, any commercial purposes. In accordance with Altair's guidelines, all images and models have been watermarked, and any sensitive information has been obscured to ensure the privacy and security of client data. </span>
 <img src="Gear_Showcase_1.png">
