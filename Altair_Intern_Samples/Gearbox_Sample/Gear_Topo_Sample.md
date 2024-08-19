@@ -26,7 +26,21 @@
   <img src="Mesh_Control_2.png" alt="Mesh_Control_2" style="margin-right: 10px;">
   <img src="Mesh_Control_3.png" alt="Mesh_Control_3" style="margin-right: 10px;">
 </div>
-<img src="Gear_Mesh_Details.png" alt="Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
+<img src="Gear_Mesh_Details.png" alt="Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 <span style="color:black"> RBE2 & RBE3 Setup:<br><br>
-<img src="Gear_RBE2_3.png" alt="RBE" style="width: 90%; max-width: auto; display: block; margin: 0 auto;"><br>
+<img src="Gear_RBE2_3.png" alt="RBE" style="width: 90%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
+
+<span style="color:black"> Material Setup: Skipped<br><br>
+
+<span style="color:black"> Load Steps:
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <img src="Load_Step_1.png" alt="Load_Step_1" style="margin-right: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Load Applied</p>
+  <img src="Load_Step_2.png" alt="Load_Step_2" style="margin-right: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Single Point Constraint</p>
+  <img src="Load_Step_3.png" alt="Load_Step_3" style="margin-right: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
+  <img src="Load_Step_4.png" alt="Load_Step_4" style="margin-right: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Load Steps</p>
+</div>
