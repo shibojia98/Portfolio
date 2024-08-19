@@ -1,7 +1,7 @@
 # Simple Demonstration of Gear Topology Optimization
 <span style="color:black"> Before Optimization:<br>
 <img src="Gear_Original_Model.png" alt="Gear_Original_Model" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
-<span style="color:black"> Geometry Cleanup:<br>
+<span style="color:black"> Geometry Cleanup:
 <div style="max-height: 300px; overflow-y: auto;">
   <img src="Gear_Topo_GC_1.png" alt="Gear_Topo_GC_1" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Remove Fillet</p>
@@ -19,7 +19,13 @@
   <p style="font-size:0.8em; text-align: center;">Create Surfaces from Lines</p>
   <img src="Gear_Topo_GC_8.png" alt="Gear_Topo_GC_8" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces (Design Space)</p>
+</div><br>
+<span style="color:black"> Mesh and Mesh Control:
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <img src="Mesh_Control_1.png" alt="Mesh_Control_1" style="margin-right: 10px;">
+  <img src="Mesh_Control_2.png" alt="Mesh_Control_2" style="margin-right: 10px;">
+  <img src="Mesh_Control_3.png" alt="Mesh_Control_3" style="margin-right: 10px;">
 </div>
-<span style="color:black"> Mesh and Mesh Control:<br>
-<img src="Gear_Mesh_Details.png"><br>
-<span style="color:black"> RBE2 & RBE3 Setup:<br>
+<img src="Gear_Mesh_Details.png" alt="Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
+<span style="color:black"> RBE2 & RBE3 Setup:
+
