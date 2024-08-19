@@ -9,3 +9,5 @@ The content is NOT qualified for, intended for, nor permitted to be used for, an
 <img src="Gear_Showcase_1.png">
 <img src="Gear_Showcase_2.png">
 <img src="Gear_Showcase_3.png">
+
+<span style="font-size:18px; color:blue">[Back to the mainpage](README.md)</span>
