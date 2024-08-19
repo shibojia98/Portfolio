@@ -1,6 +1,6 @@
 # Simple Demonstration of Gear Topology Optimization
 <span style="color:black"> Before Optimization:<br>
-<span style="color:black"> Mesh Details:<br>
+
 <span style="color:black"> Geometry Cleanup:<br>
 <div style="max-height: 300px; overflow-y: auto;">
   <img src="Gear_Topo_GC_1.png" alt="Gear_Topo_GC_1" style="display: block; margin-bottom: 10px;">
@@ -20,5 +20,6 @@
   <img src="Gear_Topo_GC_8.png" alt="Gear_Topo_GC_8" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces (Design Space)</p>
 </div>
-
+<span style="color:black"> Mesh and Mesh Control:<br>
+  
 <span style="color:black"> RBE2 & RBE3 Setup:<br>
