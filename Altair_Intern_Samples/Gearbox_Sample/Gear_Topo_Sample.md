@@ -34,13 +34,13 @@
 <span style="color:black"> Material Setup: Skipped<br><br>
 
 <span style="color:black"> Load Steps:
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="Load_Step_1.png" alt="Load_Step_1" style="margin-right: 10px;">
+<div style="max-height: 300px; overflow-y: auto;">
+  <img src="Load_Step_1.png" alt="Load_Step_1" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Applied</p>
-  <img src="Load_Step_2.png" alt="Load_Step_2" style="margin-right: 10px;">
+  <img src="Load_Step_2.png" alt="Load_Step_2" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Single Point Constraint</p>
-  <img src="Load_Step_3.png" alt="Load_Step_3" style="margin-right: 10px;">
+  <img src="Load_Step_3.png" alt="Load_Step_3" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
-  <img src="Load_Step_4.png" alt="Load_Step_4" style="margin-right: 10px;">
+  <img src="Load_Step_4.png" alt="Load_Step_4" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div>
