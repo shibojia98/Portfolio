@@ -1,1 +1,0 @@
-# Altair Gearbox Project Sample
