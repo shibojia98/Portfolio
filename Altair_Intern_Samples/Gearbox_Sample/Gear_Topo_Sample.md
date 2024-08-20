@@ -27,6 +27,9 @@
   <img src="Gear_Mesh_Control_3.png" alt="Mesh_Control_3" style="margin-right: 10px;">
 </div>
 <img src="Gear_Mesh_Details.png" alt="Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+
+  
+  
 <span style="color:black"> RBE2 & RBE3 Setup:<br><br>
 <img src="Gear_RBE2_3.png" alt="RBE" style="width: 90%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
@@ -35,13 +38,13 @@
 
 <span style="color:black"> Load Steps:
 <div style="max-height: 300px; overflow-y: auto;">
-  <img src="Load_Step_1.png" alt="Gear_Load_Step_1" style="display: block; margin-bottom: 10px;">
+  <img src="Gear_Load_Step_1.png" alt="Gear_Load_Step_1" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Applied</p>
-  <img src="Load_Step_2.png" alt="Gear_Load_Step_2" style="display: block; margin-bottom: 10px;">
+  <img src="Gear_Load_Step_2.png" alt="Gear_Load_Step_2" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Single Point Constraint</p>
-  <img src="Load_Step_3.png" alt="Gear_Load_Step_3" style="display: block; margin-bottom: 10px;">
+  <img src="Gear_Load_Step_3.png" alt="Gear_Load_Step_3" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
-  <img src="Load_Step_4.png" alt="Gear_Load_Step_4" style="display: block; margin-bottom: 10px;">
+  <img src="Gear_Load_Step_4.png" alt="Gear_Load_Step_4" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div><br>
 <span style="color:black"> Optimization Results:<br><br>
