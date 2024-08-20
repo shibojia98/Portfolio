@@ -2,7 +2,7 @@
 <span style="color:black"> This page showcases one of Shibo's projects during his internship at Altair: Structural Optimization of a Gearbox Using HyperMesh. Selected models have been chosen for demonstration purposes.<br> *In accordance with Altair's guidelines, all images and models have been watermarked, and any sensitive information has been obscured to ensure the privacy and security of client data.</span><br><br>
 <span style="color:black"> Optimization process of a few components is also provide:</span>
 - <span style="color:blue">[<u>Topology Optimization of Gear</u>](Gear_Topo_Sample.md)</span>
-- <span style="color:black"> Shape Optimization of Shaft</span>
+- <span style="color:black">[<u>Shape Optimization of Shaft</u>](Shaft_Shape_Sample.md)</span>
 
 <span style="color:black"> The following optimization result is just one of many possible solutions generated:</span><br>
 
