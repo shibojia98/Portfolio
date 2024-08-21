@@ -24,7 +24,7 @@
 
 <!--RBE-->
 <span style="color:black">RBE2s:
-<img src="Shaft_RBE2.png" alt="RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+<img src="Shaft_RBE2.png" alt="Shaft_RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 <!--Contact-->
 <span style="color:black"> Contacts:
@@ -48,14 +48,14 @@
   <img src="Shaft_Load_Step_3.png" alt="Shaft_Load_Step_3" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
   <img src="Shaft_Load_Result.png" alt="Shaft_Load_Result" style="display: block; margin-bottom: 10px;">
-  <p style="font-size:0.8em; text-align: center;">Load Steps</p>
+  <p style="font-size:0.8em; text-align: center;">Load Result</p>
 </div><br>
 
 <!--Shape Optimization-->
 <span style="color:black"> Shape Optimization:
 <img src="Shaft_Design_Variable.png" alt="Shaft_Design_Variable" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
 <p style="font-size:0.8em; text-align: center;">Define Variable Elements</p><br>
-<img src="Shaft_Shape_Animation.png" alt="Shaft_Design_Variable" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
+<img src="Shaft_Shape_Animation.gif" alt="Shaft_Shape_Amination" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
 <p style="font-size:0.8em; text-align: center;">Optimization Processing</p><br>
 
 <!--Result-->
