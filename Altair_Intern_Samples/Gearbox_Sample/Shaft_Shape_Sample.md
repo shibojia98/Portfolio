@@ -50,5 +50,10 @@
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div><br>
 
-
+<!--Shape Optimization-->
+<span style="color:black"> Shape Optimization:
+<img src="Shaft_Design_Variable.png" alt="Shaft_Design_Variable" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
+<p style="font-size:0.8em; text-align: center;">Define Variable Elements</p><br>
+<img src="Shaft_Shape_Animation.png" alt="Shaft_Design_Variable" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
+<p style="font-size:0.8em; text-align: center;">Optimization Processing</p><br>
 
