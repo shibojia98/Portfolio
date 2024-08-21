@@ -1,6 +1,6 @@
 # Simple Demonstration of Shaft Shape Optimization
 
-<span style="color:black"> Before Optimization:<br><br>
+<span style="color:black"> Before Optimization:Shaft_Shape_Result<br>
 <img src="Shaft_Original_Model.png" alt="Shaft_Original_Model" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br>
 
 <!--GC-->
@@ -20,10 +20,10 @@
 
 <!--Mesh-->
 <span style="color:black"> Mesh and Mesh Control:
-<img src="Shaft_Mesh.png" alt="Shaft_Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+<img src="Shaft_Mesh.png" alt="Shaft_Mesh_Detail" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 <!--RBE-->
-<span style="color:black">RBE2s:
+<span style="color:black">RBE2s:<br>
 <img src="Shaft_RBE2.png" alt="Shaft_RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 <!--Contact-->
