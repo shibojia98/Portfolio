@@ -53,6 +53,22 @@
 <span style="color:black"> <b>Optimization Results:</b><br><br>
 <img src="Gear_Topo_Result.gif" alt="Gear_Result"><br><br><br>
 
+For one selected solution, Density Threshold: 0.3, Max Displacement: 0.025mm at teeth, Min Vol., Unidirectional Draft; Cyclic Symmetry #: 6：
+| Topology | Before   | After    |
+|----------|----------|----------|
+| Stress   | 32171.992     | 36319.941     |
+| Displacement    | 0.025     | 0.025     |
+| Modal 1    | 1.649883E+03     | 2.185571E+03     |
+| Modal 2    | 1.650395E+03     | 2.186073E+03     |
+| Modal 3    | 1.757600E+03     | 2.305663E+03     |
+| Modal 4    | 2.018013E+03     | 2.471020E+03     |
+| Modal 5    | 2.018914E+03     | 2.471894E+03     |
+| Modal 6    | 2.958553E+03     | 3.003110E+03     |
+| Modal 7    | 3.598404E+03     | 3.747645E+03     |
+| Modal 8   | 3.598753E+03     | 3.963651E+03     |
+
+
+
 
 <span style="font-size:16px; color:blue">[Back to Gearbox Sample Page](https://shibojia98.github.io/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Altair_1.html)</span><br>
 <span style="font-size:16px; color:blue">[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span>
