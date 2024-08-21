@@ -1,7 +1,7 @@
 # Simple Demonstration of Gear Topology Optimization
-
-<a href="#target-position">*Go to Comparsion Before & After: </a><br><br>
-## Full Demostration:<br>
+The objective of this gear topology optimization is to optimize the material distribution of the design space between the root circle and the center to minimize weight.<br><br>
+<a href="#target-position">*Click here to Comparsion Before & After </a><br><br>
+## Full Demonstration:<br>
 <span style="color:black"> <b>Before Optimization:</b><br><br>
 <img src="Gear_Original_Model.png" alt="Gear_Original_Model" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
 <span style="color:black"> Geometry Cleanup:
