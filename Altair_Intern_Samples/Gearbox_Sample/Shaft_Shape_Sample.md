@@ -17,3 +17,30 @@
   <img src="Shaft_GC_5.png" alt="Shaft_GC_5" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Delete Solid</p>
 </div><br>
+
+<!--Mesh-->
+<span style="color:black"> Mesh and Mesh Control:
+<img src="Shaft_Mesh.png" alt="Shaft_Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+
+<!--RBE-->
+<img src="Gear_RBE2_3.png" alt="RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+
+<!--Material-->
+<span style="color:black"> Material Setup: Skipped<br><br>
+
+<!--Load Step-->
+<span style="color:black"> Load Steps:
+<div style="max-height: 300px; overflow-y: auto;">
+  <img src="Shaft_Load_Step_1.png" alt="Shaft_Load_Step_1" style="display: block; margin-bottom: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Moment Applied</p>
+  <img src="Shaft_Load_Step_2.png" alt="Shaft_Load_Step_2" style="display: block; margin-bottom: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Single Point Constraint</p>
+  <img src="Shaft_Load_Step_3.png" alt="Shaft_Load_Step_3" style="display: block; margin-bottom: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
+  <img src="Shaft_Load_Step_4.png" alt="Shaft_Load_Step_4" style="display: block; margin-bottom: 10px;">
+  <p style="font-size:0.8em; text-align: center;">Load Steps</p>
+</div><br>
+
+<!--Contact-->
+<span style="color:black"> Contacts:
+<p style="font-size:0.8em; text-align: center;">Type: Freeze; Consolidate; Vicinity Tolerance: 1.0</p>
