@@ -3,7 +3,7 @@ logo: /Personal/Portrait.jpg
 description: Mechanical Designer/ Structural Optimization<br><br><br><br>
 Work Samples:
 - <span style="color:blue">[<u>Optimization of Gearbox</u>](Altair_1.md)</span>
--- <span style="color:blue">[<u>Topology Optimization of Gear</u>](Gear_Topo_Sample.md)</span>
--- <span style="color:black">[<u>Shape Optimization of Shaft</u>](Shaft_Shape_Sample.md)</span>
+  - <span style="color:blue">[<u>Topology Optimization of Gear</u>](Gear_Topo_Sample.md)</span>
+  - <span style="color:black">[<u>Shape Optimization of Shaft</u>](Shaft_Shape_Sample.md)</span>
 theme: jekyll-theme-minimal
 
