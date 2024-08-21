@@ -1,6 +1,6 @@
 # Simple Demonstration of Shaft Shape Optimization
 
-The goal of this shaft shape optimization is to determine the optimal hole diameter along the shaft to reduce weight while satisfying specific constraints.<br><br>
+The goal of this shaft shape optimization is to determine the optimal hole radius (within the 10mm +/-3mm) along the shaft to reduce weight while satisfying specific constraints.<br><br>
 
 ## Full Demostration
 <span style="color:black"><b> Before Optimization:Shaft_Shape_Result</b><br><br>
