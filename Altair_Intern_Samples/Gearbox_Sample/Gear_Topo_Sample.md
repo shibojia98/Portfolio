@@ -51,4 +51,8 @@
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div><br>
 <span style="color:black"> <b>Optimization Results:</b><br><br>
-<img src="Gear_Topo_Result.gif" alt="Gear_Result">
+<img src="Gear_Topo_Result.gif" alt="Gear_Result"><br><br>
+
+
+<span style="font-size:16px; color:blue">[Back to Gearbox Sample Page](https://shibojia98.github.io/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Altair_1.html)</span><br>
+<span style="font-size:16px; color:blue">[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span>
