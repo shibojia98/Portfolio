@@ -25,6 +25,15 @@
 <!--RBE-->
 <img src="Gear_RBE2_3.png" alt="RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
+<!--Contact-->
+<span style="color:black"> Contacts:
+<p style="font-size:0.8em;">Type: Freeze; Consolidate; Vicinity Tolerance: 1.0</p>
+<div style="max-height: 300px; overflow-y: auto;">
+  <img src="Shaft_Contact_2.png" alt="Shaft_Contact_1" style="display: block; margin-bottom: 10px;">
+  <img src="Shaft_Contact_1.png" alt="Shaft_Contact_2" style="display: block; margin-bottom: 10px;">
+  <img src="Shaft_Contact_3.png" alt="Shaft_Contact_3" style="display: block; margin-bottom: 10px;">
+  </div><br>
+  
 <!--Material-->
 <span style="color:black"> Material Setup: Skipped<br><br>
 
@@ -37,10 +46,9 @@
   <p style="font-size:0.8em; text-align: center;">Single Point Constraint</p>
   <img src="Shaft_Load_Step_3.png" alt="Shaft_Load_Step_3" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Model Constraint</p>
-  <img src="Shaft_Load_Step_4.png" alt="Shaft_Load_Step_4" style="display: block; margin-bottom: 10px;">
+  <img src="Shaft_Load_Result.png" alt="Shaft_Load_Result" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div><br>
 
-<!--Contact-->
-<span style="color:black"> Contacts:
-<p style="font-size:0.8em; text-align: center;">Type: Freeze; Consolidate; Vicinity Tolerance: 1.0</p>
+
+
