@@ -60,4 +60,7 @@
 
 <!--Result-->
 <span style="color:black"> Shape Optimization Result:<br><br>
-<img src="Shaft_Shape_Result.png" alt="Shaft_Shape_Result" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
+<img src="Shaft_Shape_Result.png" alt="Shaft_Shape_Result" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br><br>
+
+<span style="font-size:16px; color:blue">[Back to Gearbox Sample Page](https://shibojia98.github.io/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Altair_1.html)</span>
+<span style="font-size:16px; color:blue">[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span>
