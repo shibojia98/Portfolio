@@ -1,5 +1,7 @@
 # Simple Demonstration of Gear Topology Optimization
 
+<a href="#target-position">*Go to Comparsion Before & After: </a><br><br>
+## Full Demostration:<br>
 <span style="color:black"> <b>Before Optimization:</b><br><br>
 <img src="Gear_Original_Model.png" alt="Gear_Original_Model" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
 <span style="color:black"> Geometry Cleanup:
@@ -52,6 +54,8 @@
 </div><br>
 <span style="color:black"> <b>Optimization Results:</b><br><br>
 <img src="Gear_Topo_Result.gif" alt="Gear_Result"><br><br><br>
+
+<h2 id="target-position">Comparsion Before & After</h2>
 
 For one selected solution, Density Threshold: 0.3, Max Displacement: 0.025mm at teeth, Min Vol., Unidirectional Draft; Cyclic Symmetry #: 6：
 | Topology | Before   | After    |
