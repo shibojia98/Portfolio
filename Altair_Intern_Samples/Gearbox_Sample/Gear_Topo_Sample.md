@@ -1,5 +1,6 @@
 # Simple Demonstration of Gear Topology Optimization
-<span style="color:black"> Before Optimization:<br><br>
+
+<span style="color:black"> <b>Before Optimization:</b><br><br>
 <img src="Gear_Original_Model.png" alt="Gear_Original_Model" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br>
 <span style="color:black"> Geometry Cleanup:
 <div style="max-height: 300px; overflow-y: auto;">
@@ -20,7 +21,9 @@
   <img src="Gear_Topo_GC_8.png" alt="Gear_Topo_GC_8" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Create a Solid from Surfaces (Design Space)</p>
 </div><br>
-<span style="color:black"> Mesh and Mesh Control:
+
+
+<span style="color:black"> <b>Mesh and Mesh Control:</b>
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
   <img src="Gear_Mesh_Control_1.png" alt="Mesh_Control_1" style="margin-right: 10px;">
   <img src="Gear_Mesh_Control_2.png" alt="Mesh_Control_2" style="margin-right: 10px;">
@@ -30,13 +33,13 @@
 
   
   
-<span style="color:black"> RBE2 & RBE3 Setup:<br><br>
+<span style="color:black"> <b>RBE2 & RBE3 Setup:</b><br><br>
 <img src="Gear_RBE2_3.png" alt="RBE" style="width: 90%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 
-<span style="color:black"> Material Setup: Skipped<br><br>
+<span style="color:black"> <b>Material Setup: Skipped</b><br><br>
 
-<span style="color:black"> Load Steps:
+<span style="color:black"> <b>Load Steps:</b>
 <div style="max-height: 300px; overflow-y: auto;">
   <img src="Gear_Load_Step_1.png" alt="Gear_Load_Step_1" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Applied</p>
@@ -47,5 +50,5 @@
   <img src="Gear_Load_Step_4.png" alt="Gear_Load_Step_4" style="display: block; margin-bottom: 10px;">
   <p style="font-size:0.8em; text-align: center;">Load Steps</p>
 </div><br>
-<span style="color:black"> Optimization Results:<br><br>
+<span style="color:black"> <b>Optimization Results:</b><br><br>
 <img src="Gear_Topo_Result.gif" alt="Gear_Result">
