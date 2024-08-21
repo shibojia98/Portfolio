@@ -23,7 +23,8 @@
 <img src="Shaft_Mesh.png" alt="Shaft_Mesh_Detail" style="width: 50%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 <!--RBE-->
-<img src="Gear_RBE2_3.png" alt="RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
+<span style="color:black">RBE2s:
+<img src="Shaft_RBE2.png" alt="RBE" style="width: 100%; max-width: auto; display: block; margin: 0 auto;"><br><br>
 
 <!--Contact-->
 <span style="color:black"> Contacts:
@@ -57,3 +58,6 @@
 <img src="Shaft_Shape_Animation.png" alt="Shaft_Design_Variable" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
 <p style="font-size:0.8em; text-align: center;">Optimization Processing</p><br>
 
+<!--Result-->
+<span style="color:black"> Shape Optimization Result:
+<img src="Shaft_Shape_Result.png" alt="Shaft_Shape_Result" style="width: 100%; max-width: auto; display: block; margin: 0 auto;">
