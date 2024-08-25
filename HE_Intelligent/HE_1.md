@@ -3,7 +3,7 @@
 
 <img src="HE_Protective_Panel.png">
 
-<img src="Gear_Showcase_2.png">
+<img src="HE_Internal_Layout.png">
 <img src="Gear_Showcase_3.png">
 
 
