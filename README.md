@@ -8,9 +8,9 @@
 - Served as a competition adjudicator of the 2022 Altair SimSolid Campaign (Region: Greater China), reviewed 80+ competition models from different industries, and delivered individual report slides for each model (across structural analysis, fatigue analysis, and thermal analysis), expanded the foreign imagination of SimSolid and explore potential customers for the marketing department.
 
 **Assistant Designer** | *HE Intellegent Energy Inc.* | May 2020 - July 2020 (3 Months)
-- Designed and assembled protective panels for the company's R410A air-cooled chiller unit using AutoCAD, tailored for the desert environment, significantly reducing finned heat exchanger clogging nad potential damage from sand and catkins;
-- Reconfigured the internal unit layout and replaced 3-row ⌀7mm tubes with 4-row ⌀9.52mm tubes in shell and tube heat exchanger, increased the heat exchange area by 25% while maintaining the designed spacing to delay frosting effectively;
-- Enhanced the shell-and-tube heat exchanger by implementing inter/external threading on the tubes and increasing tube counts from 120 to 160, resulting in a nearly 30% increase in heat exchange area, a 10% efficiency boost theoretically, and a range of 0.9%-5.7% improvement in real-time C.O.P.;
+- Designed and assembled protective panels for the company's R410A air-cooled chiller unit using AutoCAD, tailored for the desert environment, significantly reducing finned heat exchanger clogging and potential damage from sand and catkins;
+- Upgraded the finned tube heat exchanger from 3-row ⌀7mm tubes to 4-row ⌀9.52mm tubes, resulting in a 25% increase in heat exchange area;
+- Enhanced the shell-and-tube heat exchanger by implementing inter/external threading on the tubes and increasing tube count from 120 to 160 and re-layouted the internal components, resulting in a nearly 30% increase in heat exchange area, a 10% efficiency boost theoretically, and a range of 0.9%-5.7% improvement in real-time C.O.P.;
 - Delivered the tender proposal for "200 Million Square-Meters Clean Energy and Geothermal Heating & Cooling Design, Management, Installation, and Operation Project", which was successfully commenced in Xinjiang, China, and the construction has been fully completed.
 
 **Researcher** | *University of California, San Diego* | March 2022- August 2022
