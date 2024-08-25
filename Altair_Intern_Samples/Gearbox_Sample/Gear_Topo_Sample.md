@@ -58,18 +58,64 @@ The objective of this gear topology optimization is to optimize the material dis
 <h2 id="target-position">Comparsion Before & After</h2>
 
 For one selected solution, Density Threshold: 0.3, Max Displacement: 0.025mm at teeth, Min Vol., Unidirectional Draft; Cyclic Symmetry #: 6：
-| Topology | Before   | After    |
-|----------|----------|----------|
-| Stress   | 32171.992     | 36319.941     |
-| Displacement    | 0.025     | 0.025     |
-| Modal 1    | 1.649883E+03     | 2.185571E+03     |
-| Modal 2    | 1.650395E+03     | 2.186073E+03     |
-| Modal 3    | 1.757600E+03     | 2.305663E+03     |
-| Modal 4    | 2.018013E+03     | 2.471020E+03     |
-| Modal 5    | 2.018914E+03     | 2.471894E+03     |
-| Modal 6    | 2.958553E+03     | 3.003110E+03     |
-| Modal 7    | 3.598404E+03     | 3.747645E+03     |
-| Modal 8   | 3.598753E+03     | 3.963651E+03     |
+<table border="1">
+  <tr>
+    <th>Topology</th>
+    <th>Before</th>
+    <th>After</th>
+  </tr>
+  <tr>
+    <td>Stress</td>
+    <td>32171.992 kPa</td>
+    <td>36319.941 kPa</td>
+  </tr>
+  <tr>
+    <td>Displacement</td>
+    <td>0.025 mm</td>
+    <td>0.025 mm</td>
+  </tr>
+  <tr>
+    <td>Modal 1</td>
+    <td>1.649883E+03 Hz</td>
+    <td>2.185571E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 2</td>
+    <td>1.650395E+03 Hz</td>
+    <td>2.186073E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 3</td>
+    <td>1.757600E+03 Hz</td>
+    <td>2.305663E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 4</td>
+    <td>2.018013E+03 Hz</td>
+    <td>2.471020E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 5</td>
+    <td>2.018914E+03 Hz</td>
+    <td>2.471894E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 6</td>
+    <td>2.958553E+03 Hz</td>
+    <td>3.003110E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 7</td>
+    <td>3.598404E+03 Hz</td>
+    <td>3.747645E+03 Hz</td>
+  </tr>
+  <tr>
+    <td>Modal 8</td>
+    <td>3.598753E+03 Hz</td>
+    <td>3.963651E+03 Hz</td>
+  </tr>
+</table>
+
 
 
 
