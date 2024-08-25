@@ -9,7 +9,7 @@
 
 **Assistant Designer** | *HE Intellegent Energy Inc.* | May 2020 - July 2020 (3 Months)
 - Designed and assembled protective panels for the company's R410A air-cooled chiller unit using AutoCAD, tailored for the desert environment, significantly reducing finned heat exchanger clogging nad potential damage from sand and catkins;
-- Reconfigured the internal unit layout by replacing 3-row ⌀7mm tubes with 4-row ⌀9.52mm heat exchange tubes, increasing the heat exchange area by 25% while maintaining the designed spacing to delay frosting effectively;
+- Reconfigured the internal unit layout and replaced 3-row ⌀7mm tubes with 4-row ⌀9.52mm heat exchange tubes, increased the heat exchange area by 25% while maintaining the designed spacing to delay frosting effectively;
 - Enhanced the shell-and-tube heat exchanger by implementing inter/external threading on the tubes and increasing tube counts from 120 to 160, resulting in a nearly 30% increase in heat exchange area, a 10% efficiency boost theoretically, and a range of 0.9%-5.7% improvement in real-time C.O.P.;
 - Delivered the tender proposal for "200 Million Square-Meters Clean Energy and Geothermal Heating & Cooling Design, Management, Installation, and Operation Project", which was successfully commenced in Xinjiang, China, and the construction has been fully completed.
 
