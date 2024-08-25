@@ -4,7 +4,7 @@ Protect Panel Added on:
 <img src="HE_Protective_Panel.png"><br><br>
 Internal Layout:
 <img src="HE_Internal_Layout.png"><br><br>
-Redesign the plumbing layout configuration to accommodate the modified shell-and-tube heat exchanger:
+Redesign the Plumbing Layout Configuration to Accommodate the Modified Shell-and-Tube Heat Exchanger:
 <img src="HE_Reconfiguration.png"><br><br><br>
 
 
