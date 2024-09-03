@@ -1,6 +1,6 @@
 # Mechanical Engineer
 
-### <u>Experience</u>
+## Experience
 **Technical Support** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted optimization developments (topology, shape, and free shape optimization) using HyperMesh for a [<b><u>gearbox</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md) and transmission system, covering components such as gears, drive shafts, planetary gears, and casings, and produced detailed reports that fully met client requirements and expectations;
 - Performed a thorough comparison and evaluation of SimSolid (Altair's mesh-free FEA product) to HyperMesh, and ANSYS Mechanical across various models, produced slides to highlight the advantages of meshfree simulation technologies for sales, and delivered reports identifying its issues for R&D teams;
@@ -17,7 +17,7 @@
 - Customized an in-house DLP printer and executed 3D bioprinting of cardiac patches using lab-developed bio-ink;
 - Optimized printing parameters, including aperture and light intensity, and conducted mechanical testing to refine bio-ink formulation, improved tissue-matched mechanical properties and long-term integrity by 31%, in collaborating with nanotechnology and biomaterials researchers;
   
-### Education
+## Education
 **Master of Science in Mechanical Engineer** | *University of California, San Diego* | 2021 - 2024
 - CAD & CAE Specification: Additive Manufacturing & Design,  Computer Aided Design and Analysis, 3D Printable Robotics, Medical Devices, Biomaterials;
 - Robotics & Controls: Bioinspired Robotics, Forward Kinematics, Soft Robotics Electronics, Linear Control, Linear System Design, Numerical Linear Algebra.
@@ -28,7 +28,7 @@
 - Director of  Membership, Undergraduate Chinese Student Association at Univ. of Pittsburgh, served as a mentor;
 - *Courseworks: Mechatronics, Fluid Dynamics, Thermodynamics, Heat&Mass Transfer, Dynamic Systems, Mechanical Design and Measurements*.
 
-### Projects
+## Projects
 **Mechanical Designer**, 3DP Topology Optimized Bike Saddle featuring Soft Material Printed Lattice Structure Cushion
 - Created a database of ischial widths and pressure zones from pressure film readings of 50+ cycling volunteers.
 - 3D Laser Scanned a traditional saddle and topology optimized the model using Hypermesh, Inspire, and Abaqus.
@@ -39,7 +39,7 @@
 - Structurally optimized the Kensington Security Lock and fabricated a CNC-machined steel housing.
 - Awarded the SSOE 2021 Design Expo First Prize and included in the school's records.
 
-### Certification
+## Certification
 **SOLIDWORKS CAD Design Professional (CSWP)**, *Dassault Systèmes*
 
 **F.E. Mechanical (In Progress)**, *NCEES*
@@ -47,7 +47,7 @@
 **Innovation, Product Design, and Entrepreneurship Certificate**, *Swanson School of Engineering*
 - Product design, design principles, entrepreneurship, marketing strategies, product creation business aspects, and PLM.	
 
-### Technical Skills
+## Technical Skills
 - **CAE**: HyperMesh&OptiStruct, SimSolid, Inspire, ANSYS Mechanical;
 - **CAD**: SolidWorks, AutoCAD Mechanical, Fushion360;
 - **Coding**: Matlab, Python, C, Cura G Code;
