@@ -34,7 +34,7 @@
 - 3D Laser Scanned a traditional saddle and topology optimized the model using Hypermesh, Inspire, and Abaqus.
 - Designed and 3D printed a lattice-structured cushion with soft materials atop the optimized saddle.
 
-**Structural and Electro-Mechanical Designer, Kensington eLock**
+**Structural and Electro-Mechanical Designer**, Kensington eLock
 - Designed a PCB lock cylinder with an alarm system activated by an accelerometer.
 - Structurally optimized the Kensington Security Lock and fabricated a CNC-machined steel housing.
 - Awarded the SSOE 2021 Design Expo First Prize and included in the school's records.
