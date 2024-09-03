@@ -40,11 +40,11 @@
 - Awarded the SSOE 2021 Design Expo First Prize and included in the school's records.
 
 ## Certification
-**SOLIDWORKS CAD Design Professional (CSWP)**, *Dassault Systèmes*
+**SOLIDWORKS CAD Design Professional (CSWP)** | *Dassault Systèmes*
 
-**F.E. Mechanical (In Progress)**, *NCEES*
+**F.E. Mechanical (In Progress)** | *NCEES*
 
-**Innovation, Product Design, and Entrepreneurship Certificate**, *Swanson School of Engineering*
+**Innovation, Product Design, and Entrepreneurship Certificate** | *Swanson School of Engineering*
 - Product design, design principles, entrepreneurship, marketing strategies, product creation business aspects, and PLM.	
 
 ## Technical Skills
