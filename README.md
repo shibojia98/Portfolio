@@ -41,9 +41,7 @@
 
 ### Certification
 **SOLIDWORKS CAD Design Professional (CSWP)** | *Dassault Systèmes* | 2024
-
 **F.E. Mechanical (In Progress)** | *NCEES* | 2024
-
 **Innovation, Product Design, and Entrepreneurship Certificate** | *Swanson School of Engineering* | 2021
 - Product design, design principles, entrepreneurship, marketing strategies, product creation business aspects, and PLM.	
 
