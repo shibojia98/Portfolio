@@ -29,3 +29,29 @@
 - *Courseworks: Mechatronics, Fluid Dynamics, Thermodynamics, Heat&Mass Transfer, Dynamic Systems, Mechanical Design and Measurements*.
 
 ### Projects
+**Mechanical Designer**, 3DP Topology Optimized Bike Saddle featuring Soft Material Printed Lattice Structure Cushion
+- Created a database of ischial widths and pressure zones from pressure film readings of 50+ cycling volunteers.
+- 3D Laser Scanned a traditional saddle and topology optimized the model using Hypermesh, Inspire, and Abaqus.
+- Designed and 3D printed a lattice-structured cushion with soft materials atop the optimized saddle.
+
+**Structural and Electro-Mechanical Designer, Kensington eLock**
+- Designed a PCB lock cylinder with an alarm system activated by an accelerometer.
+- Structurally optimized the Kensington Security Lock and fabricated a CNC-machined steel housing.
+- Awarded the SSOE 2021 Design Expo First Prize and included in the school's records.
+
+### Certification
+**SOLIDWORKS CAD Design Professional (CSWP)** | *Dassault Systèmes* | 2024
+
+**F.E. Mechanical (In Progress)** | *NCEES* | 2024
+
+**Innovation, Product Design, and Entrepreneurship Certificate** | *Swanson School of Engineering* | 2021
+- Product design, design principles, entrepreneurship, marketing strategies, product creation business aspects, and PLM.	
+
+### Technical Skills
+- **CAE**: HyperMesh&OptiStruct, SimSolid, Inspire, ANSYS Mechanical;
+- **CAD**: SolidWorks, AutoCAD Mechanical, Fushion360;
+- **Coding**: Matlab, Python, C, Cura G Code;
+- **PCB Design**: Autodesk Eagle;
+- **Electro-mechanical**: Microchip Studio;
+- **Robotics&Control**: CoppeliaSim;
+- **Machine shop Frabcation**: 3D Printing, FabLight Laser Metal Cutting, CNC;
