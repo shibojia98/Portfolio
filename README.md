@@ -42,6 +42,8 @@
 ## Certification
 **SOLIDWORKS CAD Design Professional (CSWP)**, *Dassault Systèmes*
 
+**Data Analysis and Visualization Foundations**, *IBM*
+
 **F.E. Mechanical (In Progress)**, *NCEES*
 
 **Innovation, Product Design, and Entrepreneurship Certificate**, *Swanson School of Engineering*
