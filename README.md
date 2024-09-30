@@ -19,7 +19,7 @@
   
 ## Education
 **Master of Science in Mechanical Engineer** | *University of California, San Diego* | 2021 - 2024
-- CAD & CAE Specification: Additive Manufacturing & Design,  Computer Aided Design and Analysis, 3D Printable Robotics, Medical Devices, Biomaterials;
+- CAD & CAE Specification: Computational Techniques in Finite Elements, Additive Manufacturing & Design,  Computer Aided Design and Analysis, 3D Printable Robotics, Medical Devices, Biomaterials;
 - Robotics & Controls: Bioinspired Robotics, Forward Kinematics, Soft Robotics Electronics, Linear Control, Linear System Design, Numerical Linear Algebra.
 
 **Bachelor of Science in Mechanical Engineer** | *University of Pittsburgh* | 2017 - 2021
