@@ -6,7 +6,7 @@
 - Designed an airflow-optimized panel based on layout diagram, conducting electro-thermal-fluid coupling analyses on optimized chassis using Flotherm, and achieved a 3% to 7.2% reduction in temperature at electrons and monitor points.
 - Drafted the panel in 2D sheet metal drawings and facilitated the transition to manufacturing.
   
-**Technical Support** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
+**Application Engineer** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted structural optimization on over 15 gearbox components using HyperMesh&OptiStruct, focusing on topology, shape, and free shape optimizations; collaborated with the Secondary Development team to automate optimization workflows and enhance debugging processes; produced comprehensive reports and manuals, achieving complete client satisfaction and securing a follow-up order for optimized gearbox NVH analysis.
 - Performed a benchmarking analysis of SimSolid to OptiStruct and ANSYS Mechanical across various models, produced slides to highlight the advantages of mesh-free simulation technologies for sales, and delivered reports identifying issues for R&D teams and supervisor.
 - Hosted training sessions and created [<b><u>video tutorials for SimSolid (Ver2022.2)</u></b>](/Altair_Intern_Samples/SimSolid_Tutorial_Sample/Altair_2.md), Inspire, SimSolid, Inspire, and Sulis (DfAM lattice structure and flow channel design), collaborated with sales to present functions of products, and provided training and technical support to pre-sale and post-sale clients.
