@@ -2,7 +2,7 @@
 
 ## Experience
 **Thermal Designer** | *Laird Technology Inc.* | June 2024 - September 2024, (3 Months)
-- Designed and simulated a 4kW charging station air-cooled chassis, selected fan by flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C lower than junction temperature at the simulation's converged state.
+- Performed thermal management of a 4kW charging station air-cooled chassis, selected fan by flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C lower than junction temperature at the simulation's converged state.
 - Designed an airflow-optimized panel based on layout diagram, conducting electro-thermal-fluid coupling analyses on optimized chassis using Flotherm, and achieved a 3% to 7.2% reduction in temperature at electrons and monitor points.
 - Drafted the panel in 2D sheet metal drawings and facilitated the transition to manufacturing.
   
