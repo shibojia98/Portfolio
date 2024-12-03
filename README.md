@@ -3,12 +3,12 @@
 ## Experience
 **Thermal Designer** | *Laird Technology Inc.* | June 2024 - September 2024, (3 Months)
 - Performed thermal management of a 4kW charging station air-cooled chassis, selected fan by flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C lower than junction temperature at the simulation's converged state.
-- Designed an airflow-optimized panel based on layout diagram, conducting electro-thermal-fluid coupling analyses on optimized chassis using Flotherm, and achieved a 3% to 7.2% reduction in temperature at electrons and monitor points.
-- Drafted the panel in 2D sheet metal drawings and facilitated the transition to manufacturing.
+- Designed an airflow baffle based on the layout diagram, conducted electro-thermal-fluid coupling analyses on optimized chassis using Flotherm, and achieved a 3% to 7.2% reduction in temperature at electrons and monitor points.
+- Drafted the airflow baffle plate in 2D sheet metal drawings and facilitated the transition to manufacturing.
   
 **Application Engineer** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted structural optimization on over 15 gearbox components using HyperMesh&OptiStruct, focusing on [<b><u>topology, shape, and free shape optimizations</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md); collaborated with the Secondary Development team to automate optimization workflows and enhance debugging processes; produced comprehensive reports and manuals, achieving complete client satisfaction and securing a follow-up order for optimized gearbox NVH analysis.
-- Performed a benchmarking analysis of SimSolid to OptiStruct and ANSYS Mechanical across various models, produced slides highlighting the advantages of mesh-free simulation technologies for sales, and delivered reports identifying issues for R&D teams and supervisor.
+- Performed a benchmarking analysis of SimSolid to OptiStruct and ANSYS Mechanical across various models, produced slides highlighting the advantages of mesh-free simulation technologies for sales, and delivered reports identifying issues for R&D teams and supervisors.
 - Hosted training sessions and created [<b><u>video tutorials for SimSolid (Ver2022.2)</u></b>](/Altair_Intern_Samples/SimSolid_Tutorial_Sample/Altair_2.md), Inspire, SimSolid, Inspire, and Sulis (DfAM lattice structure and flow channel design), collaborated with sales to present functions of products, and provided training and technical support to pre-sale and post-sale clients.
 - Served as a competition adjudicator of the 2022 Altair SimSolid Campaign, reviewed 80+ models from different industries, conducted multi-physics analysis and technical report on each model, expanded the foreign imagination of SimSolid, and explored potential customers for the marketing department.
 
