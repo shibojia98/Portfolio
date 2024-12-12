@@ -56,7 +56,7 @@
 - Product design, design principles, entrepreneurship, marketing strategies, product creation business aspects, and PLM.	
 
 ## Technical Skills
-- **CAE**: HyperMesh&OptiStruct, SimSolid, Inspire, ANSYS Mechanical;
+- **CAE**: HyperMesh&OptiStruct, SimSolid, Inspire, ANSYS Mechanical, COMSOL;
 - **CAD**: SolidWorks, AutoCAD Mechanical, Fushion360;
 - **Coding**: Matlab, Python, C, Cura G Code;
 - **PCB Design**: Autodesk Eagle;
