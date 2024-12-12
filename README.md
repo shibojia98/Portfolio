@@ -4,7 +4,7 @@
 **Thermal Designer** | *Laird Technology Inc.* | June 2024 - September 2024, (3 Months)
 - Performed thermal management for a 4kW charging station using Flotherm, selecting fans based on flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C below the junction temperature at the simulation's converged state.
 - Designed an airflow baffle based on the layout diagram and chassis structure, conducted electro-thermal-fluid coupling analyses on the optimized chassis, and achieved a 3% to 7.2% reduction in temperatures at electron and monitor points.
-- Drafted the [<b><u>baffle in 2D sheet metal drawing</u></b>](/Thermal_Samples/Buffle_SECC.jpg), facilitated the transition to manufacturing, and finalized the PLM for the optimized air-cooled chassis.
+- Drafted the [<b><u>baffle in 2D sheet metal drawing</u></b>](/Thermal_Samples/4kW_Buffle_SECC.jpg), facilitated the transition to manufacturing, and finalized the PLM for the optimized air-cooled chassis.
   
 **Application Engineer** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted structural optimization on over 15 gearbox components using HyperMesh&OptiStruct, focusing on [<b><u>topology, shape, and free shape optimizations</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md); collaborated with the Secondary Development team to automate optimization workflows and enhance debugging processes; produced comprehensive reports and manuals, achieving complete client satisfaction and securing a follow-up order for optimized gearbox NVH analysis.
