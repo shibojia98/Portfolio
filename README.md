@@ -2,7 +2,7 @@
 
 ## Experience
 **Thermal Designer** | *Laird Technology Inc.* | June 2024 - September 2024, (3 Months)
-- Performed thermal management for a 4kW charging station using Flotherm, selecting fans based on flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C below the junction temperature at the simulation's converged state.
+- Performed thermal management for a power supply using Flotherm, selecting fans based on flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C below the junction temperature at the simulation’s converged state.
 - Designed an airflow baffle based on the layout diagram and chassis structure, conducted electro-thermal-fluid coupling analyses on the optimized chassis, and achieved a 3% to 7.2% reduction in temperatures at electron and monitor points.
 - Drafted the [<b><u>baffle in 2D sheet metal drawing</u></b>](/Thermal_Samples/4kW_Buffle_SECC.jpg), facilitated the transition to manufacturing, and finalized the PLM for the optimized air-cooled chassis.
 - Designed a work light housing, selected fans, and optimized perforation placements, sizes and free area ratio to match ow proles and structural requirement, decreasing internal maximum temperature from 185.0°C to 60.3°C and average housing temperature from 112.4°C to 56.6°C.
