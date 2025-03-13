@@ -1,21 +1,21 @@
 # Mechanical Engineer
 
 ## Experience
-**Thermal Designer** | *Laird Technology Inc.* | June 2024 - September 2024, (3 Months)
+**Thermal Designer (Part-Time Start-up Volunteer)** | *PlanMotion LLC* | June 2024 - September 2024, (2 Months)
 - Performed thermal management for a power supply using Flotherm, selecting fans based on flow, pressure, heat loss, and TDP of electrons to maintain their temperatures between 20~55°C below the junction temperature at the simulation’s converged state.
 - Designed an airflow baffle based on the layout diagram and chassis structure, conducted electro-thermal-fluid coupling analyses on the optimized chassis, and achieved a 3% to 7.2% reduction in temperatures at electron and monitor points.
 - Drafted the [<b><u>baffle in 2D sheet metal drawing</u></b>](/Thermal_Samples/4kW_Buffle_SECC.jpg), facilitated the transition to manufacturing, and finalized the PLM for the optimized air-cooled chassis.
-- Designed a work light housing, selected fans, and optimized perforation placements, sizes and free area ratio to match ow proles and structural requirement, decreasing internal maximum temperature from 185.0°C to 60.3°C and average housing temperature from 112.4°C to 56.6°C.
   
 **Application Engineer** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Conducted structural optimization on over 15 gearbox components using HyperMesh&OptiStruct, focusing on [<b><u>topology, shape, and free shape optimizations</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md); collaborated with the Secondary Development team to automate optimization workflows and enhance debugging processes; produced comprehensive reports and manuals, achieving complete client satisfaction and securing a follow-up order for optimized gearbox NVH analysis.
+- Optimized and redesigned a 6061-T6 Al rigid barrier for a commercial airplane A330- 200 cargo bay per 14 CFR 25.857, refining U-beam layout by 7 mm and 4 mm through iterative FEA tests, delivering a 12 kg weight reduction under promised fatigue performance, contributing to securing a COMAC C919 order.
 - Performed a benchmarking analysis of SimSolid to OptiStruct and ANSYS Mechanical across various models, produced slides highlighting the advantages of mesh-free simulation technologies for sales, and delivered reports identifying issues for R&D teams and supervisors.
+- Optimized product designs across industries using FEA simulations and CAD tools, performed static/dynamic analyses with implicit and explicit solvers, correlated results with physical tests on clients' site, and delivered detailed reports to clients.
 - Hosted training sessions and created [<b><u>video tutorials for SimSolid (Ver2022.2)</u></b>](/Altair_Intern_Samples/SimSolid_Tutorial_Sample/Altair_2.md), Inspire, SimSolid, Inspire, and Sulis (DfAM lattice structure and flow channel design), collaborated with sales to present functions of products, and provided training and technical support to pre-sale and post-sale clients.
 - Served as a competition adjudicator of the 2022 Altair SimSolid Campaign, reviewed 80+ models from different industries, conducted multi-physics analysis and technical report on each model, expanded the foreign imagination of SimSolid, and explored potential customers for the marketing department.
 
 **Assistant Designer** | *HE Intellegent Energy Inc.* | May 2020 - July 2020 (3 Months)
 - Designed and assembled protective panels for the company's [<b><u>R410A air-cooled unit</u></b>](/HE_Intern_Samples/HE_1.md), tailored for the desert environment, significantly reducing finned heat exchanger clogging and potential damage from sand and catkins.
-- Reconfigured the finned heat exchanger layout by replacing 3-row ⌀7 mm tubes with 4-row ⌀9.52 mm heat exchange tubes, increasing the heat exchange area by 25% while maintaining the designed spacing to delay frosting effectively.
 - Enhanced the shell-and-tube heat exchanger by implementing inter/external threading on the tubes and increasing tube count from 120 to 160, and redesigned the plumbing layout configuration to fit, resulting in a nearly 30% increase in heat exchange area, a 10% efficiency boost theoretically, and a range of 0.9%-5.7% improvement in real-time C.O.P.
 - Delivered the tender proposal for "200 Million Square-Meters Clean Energy and Geothermal Heating & Cooling Design, Management, Installation, and Operation Project", which was successfully commenced in Xinjiang, China, and the construction has been fully completed.
 
@@ -37,14 +37,14 @@
 
 ## Projects
 **Mechanical Designer**, 3DP Topology Optimized Bike Saddle featuring Soft Material Printed Lattice Structure Cushion
-- Created a database of ischial widths and pressure zones from pressure film readings of 50+ cycling volunteers.
-- 3D Laser Scanned a traditional saddle and topology optimized the model using Hypermesh, Inspire, and Abaqus.
-- Designed and 3D printed a lattice-structured cushion with soft materials atop the optimized saddle.
+- Innovated a traditional bike saddle design for enhanced comfort, support, and performance using SolidWorks and FEA; led the project from concept to prototyping, optimized geometry and material distribution, achieving a 28.6% reduction in maximum stress and 58-gram weight decrease based on simulation outcomes.
+- Performed iterative design refinements using 3D printing with PLA+, conducting physical tests with pressure film readings from volunteers, optimizing saddle load distribution to enhance cyclist comfort and performance.
+- Conducted usability study with 10+ participants, leveraging their cycling gestures as load case profiles to iteratively refine the saddle design, achieving unanimous agreement on significant comfort improvements and showcasing a user-centered approach to enhance functionality and satisfaction.
 
 **Structural and Electro-Mechanical Designer**, Kensington Smart Lock
-- Designed a steel lock cylinder and housing and successfully fabricated with CNC.
-- Designed a PCB featuring an alarm system activated by an accelerometer, enhancing smart lock security.
-- Awarded SSOE 2021 Design Expo First Prize and included in the school's records.
+- Designed an innovative electrical Kensington lock with a cylinder sleeve to enhance torsional rigidity and resilience under physical stress, utilizing SolidWorks and aluminum CNC prototyping to refine the design, ensuring seamless integration of electronic components within a compact, structurally integrated housing.
+- Collaborated with electrical engineers to integrate an accelerometer-activated alarm system with IR control, optimizing the design to enhance security and reduce the form factor by 20% through geometry refinement.
+- Implemented design enhancements based on interdisciplinary feedback, demonstrating a proactive approach in adapting and refining product features to meet rigorous security standards
 
 ## Certification
 **SOLIDWORKS CAD Design Professional (CSWP)**, *Dassault Systèmes*
