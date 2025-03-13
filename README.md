@@ -58,7 +58,7 @@
 
 ## Technical Skills
 - **CAE**: HyperMesh&OptiStruct, SimSolid, Inspire, ANSYS Mechanical, COMSOL;
-- **CAD**: SolidWorks, AutoCAD Mechanical, Fushion360;
+- **CAD**: SolidWorks, AutoCAD, Fushion360, GD&T;
 - **Coding**: Matlab, Python, C, Cura G Code;
 - **PCB Design**: Autodesk Eagle;
 - **Electro-mechanical**: Microchip Studio;
