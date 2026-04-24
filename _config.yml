@@ -2,12 +2,14 @@ title: Shibo Simon Jia
 logo: /Personal/Portrait.jpg
 description: >
   <strong>Mechanical Designer / Structural Optimization</strong><br><br>
+
   Altair Intern Work Samples:<br>
   <a href="/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Altair_1.html">Gearbox Optimization</a><br>
+  <a href="/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Gear_Topo_Sample.html">Topology Optimization of Gear</a><br>
+  <a href="/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Shaft_Shape_Sample.html">Shape Optimization of Shaft</a><br><br>
 
   Thermal Design:<br><br>
 
- <a href="https://shibojia98.github.io/Portfolio/">Back to the Home Page</a>
-<br>
-theme: jekyll-theme-minimal
+  <a href="https://shibojia98.github.io/Portfolio/">Back to the Home Page</a><br>
 
+theme: jekyll-theme-minimal
