@@ -2,14 +2,14 @@
 
 ## Experience
 **Mechanical Engineer (H1B)** | *Multiway Robotics America Inc.* | Feburary 2025 - Present
-- Designed robot components in AutoCAD and SolidWorks to meet client application requirements and ANSI 3691–4 standards, generating over $1M annual revenue.
-- Design LiDAR mounts for robots and produced GD&T-compliant 2D manufacturing drawings per ASME Y14.5 and GB/T 4249, enabling vendor fabrication, UL 583 electronics integration, and successfully obtained UL certification.
-- Optimized robot transport routes and motion control using linear control methods while ensuring ANSI/ISO 3691-4 compliance, improving operational safety and throughput.
-- Delivered complete technical documentation and mechanical engineering support across pre-sales, design, manufacturing, and commissioning phases.
+- Designed customized robotic components and assemblies in SolidWorks for client-specific applications in a fast-paced startup environment, contributing to over $1.5M in annual revenue.
+- Designed customer-specific robotic components and LiDAR mounts in SolidWorks; created ASME Y14.5 GD&T-compliant sheet metal drawings for fabrication and assembly, and integrated electrical components to support UL certification.
+- Worked cross-functionally to evaluate robotic components, electronics, and chassis configurations against customer budgets and internal margin targets; developed detailed BOMs for rapid design iteration and ROI analyses to support client procurement.
+- Translated customer applications, site constraints, and system requirements into practical robotic solutions; prepared technical agreements and robot user manuals to support deployment and operation.
    
 **Mechanical Engineer (Internship)** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Optimized the design of a 15+ component [<b><u>gearbox assembly</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md) using HyperMesh&OptiStruct, achieving weight reduction and modal frequency enhancement; refined designs from mesh models to solid components using CAD tools for manufracturebility; produced comprehensive reports and user manuals, and securing a follow-up order for optimized gearbox NVH analysis.
-- Generated and refined meshes, defined validated load cases and boundary conditions, and automated workflows with Python while collaborating with front-end engineers to customize secondary-development software.
+- Generated and refined meshes, defined and validated load cases and boundary conditions, and automated pre- and post-processing workflows with Python while collaborating with front-end engineers to customize secondary-development software.
 - Utilized FEA simulations to optimize multi-industry product designs, interpreted optimization results in CAD, and correlated physical test data across solvers to deliver technical documentation and reports.
 - Developed technical plans and selected appropriate products within budget constraints, provided feedback to supervisors to improve Altair products, and created technical marketing materials to highlight product features.
 - (Hosted training sessions and created [<b><u>video tutorials for SimSolid (Ver2022.2)</u></b>](/Altair_Intern_Samples/SimSolid_Tutorial_Sample/Altair_2.md), Inspire, SimSolid, Inspire, and Sulis (DfAM lattice structure and flow channel design), collaborated with sales to present functions of products, and provided training and technical support to pre-sale and post-sale clients.)
