@@ -1,7 +1,3 @@
----
-layout: default
-title: 4kW Power Supply Baffle Airflow Design
----
 
 <a href="https://shibojia98.github.io/Portfolio/">Back to the Home Page</a>
 
