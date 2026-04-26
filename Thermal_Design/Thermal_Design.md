@@ -31,12 +31,15 @@
 <h2>Problem Identification</h2>
 
 <p>
-  In the baseline design, a portion of the cooling air bypassed the high-resistance component region instead of passing through the heat sink fins and densely populated power electronics area.
-  This created low-velocity zones and flow-shadow regions behind large components, reducing local convective heat transfer.
+  In the original design, two 100 mm cooling fans were positioned to direct airflow toward the main power semiconductor devices,
+  including the PFC MOSFETs, boost diodes, SiC diodes, and IGBTs, to improve cooling of the dominant heat sources.
+  However, post-processing of the velocity slice profiles and critical temperature monitors showed that the intake airflow from both sides tended to bypass the targeted heat sink regions.
 </p>
 
 <p>
-  Without a dedicated airflow guide, the fan-driven air tended to follow the path of least resistance, causing uneven airflow coverage and potential local hot spots inside the compact enclosure.
+  Only a small portion of the airflow passed through the fin arrays directly downstream of the fans and across the critical heat sources.
+  This caused insufficient local convective heat transfer, low-velocity regions, recirculation zones, and stagnant air pockets.
+  As hot air remained inside the enclosure for a longer residence time, local temperatures increased and several monitored components exceeded their junction temperature limits after convergence.
 </p>
 
 <h2>Baffle Design Solution</h2>
