@@ -1,7 +1,8 @@
+<span>[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span><br><br>
 # Simple Demonstration of Gear Topology Optimization
 The objective of this gear topology optimization is to optimize the material distribution of the design space between the root circle and the center to minimize weight.<br><br>
 <a href="#target-position">*Click here to Comparsion Before & After </a><br>
-<span>[*Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span><br><br>
+
 
 
 ## Full Demonstration:<br>
