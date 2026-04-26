@@ -34,7 +34,7 @@ title: 4kW Power Supply Baffle Airflow Design
   boundaries.
 </p>
 
-<img src="/Thermo_Design/Model_Simplification.png" alt="Flotherm MCAD Simplified Model">
+<img src="Model_Simplification.png" alt="Flotherm MCAD Simplified Model">
 
 <h2>Baffle Design</h2>
 
@@ -44,7 +44,7 @@ title: 4kW Power Supply Baffle Airflow Design
   components.
 </p>
 
-<img src="/Thermo_Design/Baffle_Design.png" alt="Sheet Metal Baffle Design">
+<img src="Baffle_Design.png" alt="Sheet Metal Baffle Design">
 
 <h2>Airflow Comparison Before and After Optimization</h2>
 
@@ -59,7 +59,7 @@ title: 4kW Power Supply Baffle Airflow Design
   controlled, creating uneven cooling and potential hot spots inside the enclosure.
 </p>
 
-<img src="/Thermo_Design/Before_Optimization.gif" alt="Before Optimization Airflow Speed Distribution">
+<img src="Before_Optimization.gif" alt="Before Optimization Airflow Speed Distribution">
 
 <h3>After Optimization</h3>
 
@@ -68,7 +68,7 @@ title: 4kW Power Supply Baffle Airflow Design
   coverage over the internal components and reduced inefficient flow regions.
 </p>
 
-<img src="/Thermo_Design/After_Optimization.gif" alt="After Optimization Airflow Speed Distribution">
+<img src="After_Optimization.gif" alt="After Optimization Airflow Speed Distribution">
 
 <h2>Flow Trajectory Analysis</h2>
 
@@ -78,7 +78,7 @@ title: 4kW Power Supply Baffle Airflow Design
   thermal load regions.
 </p>
 
-<img src="/Thermo_Design/Flow_Traj.gif" alt="Optimized Flow Trajectory">
+<img src="Flow_Traj.gif" alt="Optimized Flow Trajectory">
 
 <h2>Engineering Contribution</h2>
 
