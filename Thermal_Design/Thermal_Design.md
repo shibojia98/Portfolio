@@ -1,77 +1,73 @@
-
 <a href="https://shibojia98.github.io/Portfolio/">Back to the Home Page</a>
 
 <h1>4kW Power Supply Baffle Airflow Design</h1>
 
-<p>
-This project presents the airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
-  The study focused on improving internal airflow distribution by designing a compact sheet-metal baffle within the limited enclosure space.
-  The baffle concentrates forced airflow and guides it more effectively through critical heat-generating components, achieving improved heat dissipation.
-</p>
-
-<h2>Project Overview</h2>
+<h2>Project Introduction</h2>
 
 <p>
-  The original 4kW power supply assembly included power electronics, capacitors, magnetic components, heat sinks,
-  cooling fans, and enclosure structures. A simplified MCAD model was imported into Flotherm to support thermal-fluid
-  simulation while preserving the key geometry that affects airflow resistance and heat dissipation.
-</p>
-
-<p>
-  The objective of this design was to improve cooling performance by modifying the internal air path with a customized
-  baffle structure.
+  This project presents the airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
+  A compact sheet-metal baffle was designed within the limited enclosure space to concentrate forced airflow and guide it through critical heat-generating components.
+  The optimized airflow path improved convective heat transfer and enhanced overall heat dissipation performance.
 </p>
 
 <h2>MCAD Model Simplification</h2>
 
 <p>
-  The original mechanical and electrical assembly was simplified for CFD simulation. Non-critical small features were
-  removed while preserving major components, blockage regions, heat-generating parts, heat sinks, fans, and enclosure
-  boundaries.
+  The original mechanical and electrical assembly was simplified for CFD simulation. Non-critical small features were removed while preserving the major components,
+  blockage regions, heat-generating parts, heat sinks, fans, and enclosure boundaries that directly affect airflow resistance and heat dissipation.
 </p>
 
 <img src="Model_Simplification.png" alt="Flotherm MCAD Simplified Model">
 
-<h2>Baffle Design</h2>
+<h2>Baseline Airflow Analysis Before Optimization</h2>
 
 <p>
-  A custom sheet-metal baffle was designed to redirect fan-driven airflow toward the key heat-generating regions.
-  The baffle helps prevent airflow short-circuiting and improves the utilization of cooling air across the internal
-  components.
+  Before adding the baffle, the initial airflow simulation was performed to evaluate the baseline cooling behavior inside the enclosure.
+  The result showed that the fan-driven airflow was not fully guided through the main thermal load areas.
+</p>
+
+<img src="Before_Optimization.gif" alt="Before Optimization Airflow Speed Distribution">
+
+<h2>Problem Identification</h2>
+
+<p>
+  In the baseline design, a portion of the cooling air bypassed the high-resistance component region instead of passing through the heat sink fins and densely populated power electronics area.
+  This created low-velocity zones and flow-shadow regions behind large components, reducing local convective heat transfer.
+</p>
+
+<p>
+  Without a dedicated airflow guide, the fan-driven air tended to follow the path of least resistance, causing uneven airflow coverage and potential local hot spots inside the compact enclosure.
+</p>
+
+<h2>Baffle Design Solution</h2>
+
+<p>
+  To address this issue, a custom sheet-metal baffle was designed to redirect and concentrate the airflow toward the critical heat-generating regions.
+  The baffle was integrated within the limited internal space of the power supply enclosure while avoiding interference with existing components and assembly constraints.
 </p>
 
 <img src="Baffle_Design.png" alt="Sheet Metal Baffle Design">
 
-<h2>Airflow Comparison Before and After Optimization</h2>
+<h2>Optimization Result Comparison</h2>
 
 <p>
-  The following results compare the airflow speed distribution before and after adding the baffle structure.
+  After adding the baffle, the airflow path became more directed and uniform.
+  The optimized design increased airflow coverage over the thermal load path and reduced inefficient bypass flow regions.
 </p>
 
 <h3>Before Optimization</h3>
-
-<p>
-  Without the baffle, part of the airflow bypassed critical heat-generating areas. The flow distribution was less
-  controlled, creating uneven cooling and potential hot spots inside the enclosure.
-</p>
 
 <img src="Before_Optimization.gif" alt="Before Optimization Airflow Speed Distribution">
 
 <h3>After Optimization</h3>
 
-<p>
-  After adding the baffle, the airflow path became more directed and uniform. The optimized design improved airflow
-  coverage over the internal components and reduced inefficient flow regions.
-</p>
-
 <img src="After_Optimization.gif" alt="After Optimization Airflow Speed Distribution">
 
-<h2>Flow Trajectory Analysis</h2>
+<h2>Flow Trajectory Verification</h2>
 
 <p>
-  The flow trajectory result shows how the optimized baffle guides air from the cooling fans through the power
-  electronics area. The airflow path is more organized, helping improve convective heat transfer across the main
-  thermal load regions.
+  The flow trajectory result further verified that the baffle effectively guided the airflow from the cooling fans through the power electronics area.
+  The airflow path became more organized, helping improve convective heat transfer across the main heat-generating components.
 </p>
 
 <img src="Flow_Traj.gif" alt="Optimized Flow Trajectory">
@@ -79,12 +75,12 @@ This project presents the airflow optimization of a 4kW power supply charging st
 <h2>Engineering Contribution</h2>
 
 <ul>
-  <li>Simplified the original MCAD model for Flotherm thermal-fluid simulation.</li>
-  <li>Identified inefficient airflow paths and potential recirculation regions.</li>
-  <li>Designed a sheet-metal baffle to guide airflow through key heat-generating components.</li>
+  <li>Simplified the original MCAD model for Siemens Flotherm thermal-fluid simulation.</li>
+  <li>Performed baseline airflow analysis to evaluate the original cooling behavior.</li>
+  <li>Identified bypass flow, low-velocity zones, and insufficient airflow coverage in critical thermal regions.</li>
+  <li>Designed a compact sheet-metal baffle to guide forced airflow within limited enclosure space.</li>
   <li>Compared airflow speed distribution before and after optimization.</li>
   <li>Verified improved airflow direction using flow trajectory visualization.</li>
-  <li>Supported thermal design improvement for a compact 4kW power supply charging station.</li>
 </ul>
 
 <h2>Tools Used</h2>
