@@ -81,23 +81,23 @@
 
 <h2>Engineering Contribution</h2>
 
+<h2>Engineering Contribution</h2>
+
 <ul>
-  <li>Simplified the original MCAD model for Siemens Flotherm thermal-fluid simulation.</li>
-  <li>Performed baseline airflow analysis to evaluate the original cooling behavior.</li>
-  <li>Identified bypass flow, low-velocity zones, and insufficient airflow coverage in critical thermal regions.</li>
-  <li>Designed a compact sheet-metal baffle to guide forced airflow within limited enclosure space.</li>
-  <li>Compared airflow speed distribution before and after optimization.</li>
-  <li>Verified improved airflow direction using flow trajectory visualization.</li>
+  <li>Designed an airflow baffle based on chassis constraints, electronic component layout, and CFD flow profile analysis.</li>
+  <li>Performed electro-thermal-fluid coupling analysis in Siemens Flotherm to evaluate thermal performance.</li>
+  <li>Improved internal ventilation efficiency and reduced monitored temperatures by 3%–7.2%.</li>
+  <li>Maintained semiconductor temperatures approximately 20–55°C below junction temperature limits after optimization.</li>
+  <li>Converted the optimized baffle concept into manufacturable sheet-metal 3D parts.</li>
 </ul>
 
 <h2>Tools Used</h2>
 
 <ul>
   <li>Siemens Flotherm</li>
+  <li>MCAD model simplification</li> 
   <li>SolidWorks</li>
-  <li>MCAD model simplification</li>
-  <li>CFD-based airflow analysis</li>
-  <li>Sheet-metal baffle design</li>
+
 </ul>
 
 <br>
