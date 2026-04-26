@@ -5,9 +5,13 @@
 <h2>Project Introduction</h2>
 
 <p>
-  This project presents the airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
-  A compact sheet-metal baffle was designed within the limited enclosure space to concentrate forced airflow from intake and guide it through critical heat-generating components.
-  The optimized airflow path improved convective heat transfer and enhanced overall heat dissipation performance.
+  This project presents the thermal-electrical-mechanical coupled design and airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
+  The study considered the interaction between heat-generating electrical components, mechanical chassis constraints, and forced-air cooling performance within a compact enclosure.
+</p>
+
+<p>
+  A compact sheet-metal baffle was designed based on the chassis structure, electronic component layout, and CFD flow profiles.
+  The baffle concentrates forced airflow and guides it through critical heat-generating components, improving convective heat transfer and overall heat dissipation performance.
 </p>
 
 <h2>MCAD Model Simplification</h2>
