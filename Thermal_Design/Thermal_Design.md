@@ -4,9 +4,9 @@
 <h1>4kW Power Supply Baffle Airflow Design</h1>
 
 <p>
-  This project presents the airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
-  The study focused on improving internal airflow distribution by designing a sheet-metal baffle to guide cooling air
-  more effectively through high-heat components and reduce local recirculation zones.
+This project presents the airflow optimization of a 4kW power supply charging station using Siemens Flotherm.
+  The study focused on improving internal airflow distribution by designing a compact sheet-metal baffle within the limited enclosure space.
+  The baffle concentrates forced airflow and guides it more effectively through critical heat-generating components, achieving improved heat dissipation.
 </p>
 
 <h2>Project Overview</h2>
