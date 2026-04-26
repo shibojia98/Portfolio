@@ -1,4 +1,5 @@
-<span>[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span><br><br>
+<span>[Back to the Home Page](https://shibojia98.github.io/Portfolio/)</span><br>
+<a href="/Portfolio/Altair_Intern_Samples/Gearbox_Sample/Altair_1.html">Click to Go Back</a><br><br>
 # Simple Demonstration of Shaft Shape Optimization
 
 The goal of this shaft shape optimization is to determine the optimal hole radius (within the 10mm +/-3mm) along the shaft to reduce weight while satisfying specific constraints.<br>
