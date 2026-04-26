@@ -32,14 +32,14 @@
 
 <p>
   In the original design, two 100 mm cooling fans were positioned to direct airflow toward the main power semiconductor devices,
-  including the PFC MOSFETs, boost diodes, SiC diodes, and IGBTs, to improve cooling of the dominant heat sources.
-  However, post-processing of the velocity slice profiles and critical temperature monitors showed that the intake airflow from both sides tended to bypass the targeted heat sink regions.
+  including the PFC MOSFETs, boost diodes, SiC diodes, and IGBTs.
+  The goal was to improve heat dissipation around the dominant heat sources.
 </p>
 
 <p>
-  Only a small portion of the airflow passed through the fin arrays directly downstream of the fans and across the critical heat sources.
-  This caused insufficient local convective heat transfer, low-velocity regions, recirculation zones, and stagnant air pockets.
-  As hot air remained inside the enclosure for a longer residence time, local temperatures increased and several monitored components exceeded their junction temperature limits after convergence.
+  However, post-processing of velocity slice profiles and critical temperature monitors showed that airflow from both side intakes tended to bypass the targeted heat sink regions.
+  Only limited airflow passed through the fin arrays and across the critical heat sources, causing insufficient convective cooling, low-velocity zones, recirculation, and stagnant air pockets.
+  As hot air remained inside the enclosure longer, several monitored components exceeded their junction temperature limits after convergence.
 </p>
 
 <h2>Baffle Design Solution</h2>
