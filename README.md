@@ -1,7 +1,7 @@
 # Mechanical Engineer
 
 ## Experience
-**Mechanical Engineer (H1B)** | *Multiway Robotics America Inc.* | Feburary 2025 - Present
+**Mechanical Engineer** | *Multiway Robotics America Inc.* | Feburary 2025 - Present
 - Designed customized robotic components and assemblies in SolidWorks for client-specific applications in a fast-paced startup environment, contributing to over $1.5M in annual revenue.
 - Designed customer-specific robotic components and LiDAR mounts in SolidWorks; created ASME Y14.5 GD&T-compliant sheet metal drawings for fabrication and assembly, and integrated electrical components to support UL certification.
 - Worked cross-functionally to evaluate robotic components, electronics, and chassis configurations against customer budgets and internal margin targets; developed detailed BOMs for rapid design iteration and ROI analyses to support client procurement.
