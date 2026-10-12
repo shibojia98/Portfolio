@@ -2,10 +2,10 @@
 
 ## Experience
 **Mechanical Engineer** | *Multiway Robotics America Inc.* | Feburary 2025 - Present
-- Led customization and product refinement of AGV platforms for North America applications in a fast-paced robotics startup; leveraged FMEA, field feedback, and operational constraints to improve product reliability and field performance, contributing to over $1.5M in annual revenue.
-- Designed custom robotic components in SolidWorks, including LiDAR mounting poles, sheet-metal LiDAR mounts, and integration brackets; released ASME Y14.5 GD&T-compliant drawings to support vendor DFM reviews, fabrication, and robot assembly.
-- Collaborated with cross-functional teams to design robot configurations and refine component layouts, balancing functional requirements, manufacturability, form factor constraints, and internal margin targets.
-- Drove design iterations from prototype builds through engineering validation and field deployment across 3PL, automotive manufacturing, and warehousing applications; coordinated BOM development, release documentation, assembly support, testing, and technical agreements.
+- Led production development and optimization of AGV platforms in a fast-paced robotics startup; leveraged root cause analysis, FMEA, and field feedback to improve product reliability and field performance, contributing to over $2.5M in revenue.
+- Designed robot components in SolidWorks, including LiDAR towers, sheet-metal LiDAR mounts, brackets and housings; released ASME Y14.5 GD&T-compliant drawings for DFM reviews, fabrication, and supported robots' assembly.
+- Collaborated with cross-functional teams to develop robotic configurations, chassis structures, and component layouts, ensuring alignment with field requirements, manufacturability, form factor constraints, and internal cost targets.
+- Drove complete NPI for AGV from prototyping through EVT, DVT and field deployment; leveraged PLM to manage BOMs, customization ECOs, design iterations, and provided technical documentation to support manufacturing readiness and field application.
    
 **Mechanical Engineer (Internship)** | *Altair Engineering Inc. (Nasdaq: ALTR)* | September 2022 - September 2023, (13 Months)
 - Optimized the design of a 15+ component [<b><u>gearbox assembly</u></b>](/Altair_Intern_Samples/Gearbox_Sample/Altair_1.md) using HyperMesh and OptiStruct, reducing weight and improving modal performance; reconstructed manufacturable CAD designs from mesh-based optimization results, produced comprehensive technical reports, and secured a follow-up NVH analysis order.
